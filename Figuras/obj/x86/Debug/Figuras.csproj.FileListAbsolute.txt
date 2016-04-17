@@ -12,3 +12,10 @@ C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\bin\D
 C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.Form1.resources
 C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.Properties.Resources.resources
 C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.csproj.GenerateResource.Cache
+C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\obj\x86\Debug\Figuras.exe
+C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\obj\x86\Debug\Figuras.pdb
+C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\obj\x86\Debug\Figuras.Form1.resources
+C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\obj\x86\Debug\Figuras.Properties.Resources.resources
+C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\obj\x86\Debug\Figuras.csproj.GenerateResource.Cache

@@ -12,11 +12,14 @@ namespace Figuras
     public partial class Form1 : Form
     {
         List<Figura> figuras;
+        enum TipoFigura { Rectangulo, Circulo };
+        
         public Form1()
         {
             figuras = new List<Figura>();
             InitializeComponent();
-            
+            circuloToolStripMenuItem.Checked = true;
+        
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -28,11 +31,15 @@ namespace Figuras
         {
             if (MouseButtons.Right == e.Button)
             {
+                contextMenuStrip1.Show(this, e.X, e.Y);
+            }
+            if (MouseButtons.Left == e.Button && circuloToolStripMenuItem.Checked==true)
+            {
                 Circulo c = new Circulo(e.X, e.Y);
                 c.Dibuja(this);
                 figuras.Add(c);
             }
-            else if (MouseButtons.Left == e.Button)
+            else if (MouseButtons.Left == e.Button && rectanguloToolStripMenuItem.Checked==true)
             {
                 Rectangulo r = new Rectangulo(e.X, e.Y);
                 r.Dibuja(this);
@@ -48,5 +55,17 @@ namespace Figuras
             }
         }
 
+        private void circuloToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            circuloToolStripMenuItem.Checked = true;
+            rectanguloToolStripMenuItem.Checked = false;
+        }
+
+        private void rectanguloToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            circuloToolStripMenuItem.Checked = false;
+            rectanguloToolStripMenuItem.Checked = true;
+        }
+        
     }
 }
