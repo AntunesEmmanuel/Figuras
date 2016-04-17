@@ -1,0 +1,7 @@
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\bin\Release\Figuras.exe
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\bin\Release\Figuras.pdb
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Release\Figuras.Form1.resources
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Release\Figuras.Properties.Resources.resources
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Release\Figuras.csproj.GenerateResource.Cache
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Release\Figuras.exe
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Release\Figuras.pdb

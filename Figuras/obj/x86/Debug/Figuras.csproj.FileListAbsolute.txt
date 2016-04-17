@@ -1,0 +1,14 @@
+C:\Users\SUPERPILLIN\AppData\Local\Temporary Projects\Figuras\obj\x86\Debug\Figuras.Form1.resources
+C:\Users\SUPERPILLIN\AppData\Local\Temporary Projects\Figuras\obj\x86\Debug\Figuras.Properties.Resources.resources
+C:\Users\SUPERPILLIN\AppData\Local\Temporary Projects\Figuras\obj\x86\Debug\Figuras.csproj.GenerateResource.Cache
+C:\Users\SUPERPILLIN\AppData\Local\Temporary Projects\Figuras\bin\Debug\Figuras.exe
+C:\Users\SUPERPILLIN\AppData\Local\Temporary Projects\Figuras\bin\Debug\Figuras.pdb
+C:\Users\SUPERPILLIN\AppData\Local\Temporary Projects\Figuras\obj\x86\Debug\Figuras.exe
+C:\Users\SUPERPILLIN\AppData\Local\Temporary Projects\Figuras\obj\x86\Debug\Figuras.pdb
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.exe
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.pdb
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.Form1.resources
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.Properties.Resources.resources
+C:\Users\SUPERPILLIN\documents\visual studio 2010\Projects\Figuras\Figuras\obj\x86\Debug\Figuras.csproj.GenerateResource.Cache
