@@ -19,3 +19,4 @@ C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\bin\Debug\Figuras.pdb
 C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\obj\x86\Debug\Figuras.Form1.resources
 C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\obj\x86\Debug\Figuras.Properties.Resources.resources
 C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\obj\x86\Debug\Figuras.csproj.GenerateResource.Cache
+C:\Users\SUPERPILLIN\Documents\GitHub\Figuras\Figuras\obj\x86\Debug\Figuras.csprojResolveAssemblyReference.cache
